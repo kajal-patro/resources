@@ -4,7 +4,7 @@
 # Resource Bank
 
 > <Subtitle>
-> Want to learn something new but can't find resources to learn? This repository will take care of all your learning needs.
+> Want to learn something new but can't find proper resources to learn? This repository will take care of all your learning needs.
 
 ---
 
@@ -160,4 +160,4 @@
 
 <hr>
 
-Please give a :star: to show your support if you like this repository :wink:
+Please give a :star: if you like this repository and show your support :wink:
